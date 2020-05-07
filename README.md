@@ -1,5 +1,5 @@
-# Out-Of-Tuner
-A music GAN using autoencoding fit to FitBit inputs
+# DJ-Tuner
+A music GAN using RNNs to generate new video game music
 
 # Contributors
 Philip Sohn
